@@ -9,6 +9,7 @@
             // Fib.Run();
             // FizzBuzz.Run();
             // Students.Run();
+            // Multiplication.Run();
         }
     }
 }
