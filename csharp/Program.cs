@@ -10,6 +10,8 @@
             // FizzBuzz.Run();
             // Students.Run();
             // Multiplication.Run();
+            // EvenArrayNumbers.Run();
+            // RemoveCharacters.Run();
         }
     }
 }
