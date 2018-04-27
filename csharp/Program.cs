@@ -13,6 +13,7 @@
             // Multiplication.Run();
             // EvenArrayNumbers.Run();
             // RemoveCharacters.Run();
+            // FirstRecurringCharacter.Run();
         }
     }
 }
